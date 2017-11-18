@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/17/17
 
 ### Student Name:  
-(First and Last Name)
+Jorge Ramos
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Completed a recipe display app using jquery essentials
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ide.c9.io/jorgeramos2/ramos_lesson7_jquery
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use basic jquery commands
+2. used built in jquery syntax
+3. accessed elements using jquery syntax
 
